@@ -1,17 +1,13 @@
 # DL- Developing a Recurrent Neural Network Model for Stock Prediction
 
-## AIM
-To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
+## AIM:
+To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
 
-Develop a Recurrent Neural Network (RNN) model to predict stock prices based on historical data.
-Preprocess the dataset by handling missing values and normalizing time-series inputs.
-Train and evaluate the model to accurately forecast future stock trends.
-
-<img width="665" height="615" alt="image" src="https://github.com/user-attachments/assets/7f988cd6-7ba0-4113-a769-008f848b5ab4" />
-
-<img width="581" height="675" alt="image" src="https://github.com/user-attachments/assets/1ce32ae1-be03-4410-9287-d6129a2776d5" />
+An LSTM-based model for recognizing named entities is a type of neural network that uses Long Short-Term Memory (LSTM) layers to identify and classify proper names and entities within a text, such as person names, locations, organizations, dates, etc. It is commonly employed in Named Entity Recognition (NER) tasks because LSTMs are effective at capturing sequential dependencies and context within text. Typically, these models process tokenized input data, learn contextual representations, and output labels for each token indicating whether it belongs to a specific entity type. This approach improves the accuracy of extracting meaningful information from unstructured text data.
+<img width="371" height="651" alt="image" src="https://github.com/user-attachments/assets/3eb558cf-31db-4e5d-b993-257133b06174" />
+>
 
 ## DESIGN STEPS
 ### STEP 1: 
